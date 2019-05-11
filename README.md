@@ -9,3 +9,7 @@ A zabbix agent tool to monitor systemd services on zabbix server
 
 _**NOTE:**_ This script just tested on `redhat 7.5` with zabbix `3.4`
 
+### Reference
+Thanks to @MogiePete at
+[here](https://github.com/MogiePete/zabbix-systemd-service-monitoring)
+
